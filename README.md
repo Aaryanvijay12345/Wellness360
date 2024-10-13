@@ -27,5 +27,3 @@ Welcome to **Wellness360**, a healthcare platform that provides essential medica
 
 - **Frontend**: Android (Java)
 - **Backend**: MySQL database
-
-- 
